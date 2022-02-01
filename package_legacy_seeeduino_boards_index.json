@@ -15,7 +15,7 @@
                 "help": {
                     "online": "http://wiki.seeedstudio.com/"
                 },
-                "url": "https://raw.githubusercontent.com/Seeed-Studio/Seeed_Platform/master/Seeeduino_AVR_v1.0.0.tar.bz2",
+                "url": "https://raw.githubusercontent.com/Gimme-VARs/Seeeduino-Nano-Files/main/Seeeduino_AVR_v1.0.0.tar.bz2",
                 "archiveFileName": "Seeeduino_AVR_v1.0.0.tar.bz2",
                 "checksum": "SHA-256:044ca6e7be70a09dba38e2195f82045e24234f592bedcb1125a88d69908493d5",
                 "size": "4884594",
@@ -55,7 +55,7 @@
                 "help": {
                     "online": "http://wiki.seeedstudio.com/"
                 },
-                "url": "https://raw.githubusercontent.com/Seeed-Studio/Seeed_Platform/master/Seeeduino_AVR_v1.1.0.tar.bz2",
+                "url": "https://raw.githubusercontent.com/Gimme-VARs/Seeeduino-Nano-Files/main/Seeeduino_AVR_v1.1.0.tar.bz2",
                 "archiveFileName": "Seeeduino_AVR_v1.1.0.tar.bz2",
                 "checksum": "SHA-256:2b2679cce4ff1bf566d196f5046e5feee60f2507c30480ee53567fc48771951d",
                 "size": "4976459",
@@ -100,7 +100,7 @@
                 "help": {
                     "online": "http://wiki.seeedstudio.com/"
                 },
-                "url": "https://raw.githubusercontent.com/Seeed-Studio/Seeed_Platform/master/Seeeduino_AVR_v1.2.1.tar.bz2",
+                "url": "https://raw.githubusercontent.com/Gimme-VARs/Seeeduino-Nano-Files/main/Seeeduino_AVR_v1.2.1.tar.bz2",
                 "archiveFileName": "Seeeduino_AVR_v1.2.1.tar.bz2",
                 "checksum": "SHA-256:f2b1bdec4760053e8a12ed330d991b68acefb8bb7c0ef151747a9944d3493367",
                 "size": "4978776",
@@ -148,7 +148,7 @@
                 "help": {
                     "online": "http://wiki.seeedstudio.com/"
                 },
-                "url": "https://raw.githubusercontent.com/Seeed-Studio/Seeed_Platform/master/Seeeduino_AVR_v1.2.1.tar.bz2",
+                "url": "https://raw.githubusercontent.com/Gimme-VARs/Seeeduino-Nano-Files/main/Seeeduino_AVR_v1.2.1.tar.bz2",
                 "archiveFileName": "Seeeduino_AVR_v1.3.0.tar.bz2",
                 "checksum": "SHA-256:f2b1bdec4760053e8a12ed330d991b68acefb8bb7c0ef151747a9944d3493367",
                 "size": "4978776",
@@ -196,7 +196,7 @@
                 "help": {
                     "online": "http://wiki.seeedstudio.com/"
                 },
-                "url": "https://raw.githubusercontent.com/Seeed-Studio/Seeed_Platform/master/Seeeduino_Stalker_V3.tar.bz2",
+                "url": "https://raw.githubusercontent.com/Gimme-VARs/Seeeduino-Nano-Files/main/Seeeduino_Stalker_V3.tar.bz2",
                 "archiveFileName": "Seeeduino_Stalker_V3.tar.bz2",
                 "checksum": "SHA-256:2879065528576b13645f19fa3e2eeb59315e78502b1b41a32f8b19e088478ed4",
                 "size": "4891995",
@@ -223,7 +223,7 @@
                 "help": {
                     "online": "http://wiki.seeedstudio.com/"
                 },
-                "url": "https://raw.githubusercontent.com/Seeed-Studio/Seeed_Platform/master/Seeeduino_Stalker_V3_1.0.2.tar.bz2",
+                "url": "https://raw.githubusercontent.com/Gimme-VARs/Seeeduino-Nano-Files/main/Seeeduino_Stalker_V3_1.0.2.tar.bz2",
                 "archiveFileName": "Seeeduino_Stalker_V3.tar.bz2",
                 "checksum": "SHA-256:e83f9547b33801e92426aa5b89cc04525908b2df1867f170be9fc73a09bd5358",
                 "size": "4890378",
@@ -250,7 +250,7 @@
                 "help": {
                     "online": "https://github.com/Seeed-Studio/stm32f4ArduinoCore"
                 },
-                "url": "https://raw.githubusercontent.com/Seeed-Studio/Seeed_Platform/master/Seeed_STM32F4_v1.0.1.tar.bz2",
+                "url": "https://raw.githubusercontent.com/Gimme-VARs/Seeeduino-Nano-Files/main/Seeed_STM32F4_v1.0.1.tar.bz2",
                 "archiveFileName": "Seeed_STM32F4_v1.0.1.tar.bz2",
                 "checksum": "SHA-256:b58130ea6fea1b192d7edf676b33821ace7d6e303430828ddf65af0b7b65fcda",
                 "size": "196450",
@@ -277,7 +277,7 @@
                 "help": {
                     "online": "https://github.com/Seeed-Studio/stm32f4ArduinoCore"
                 },
-                "url": "https://raw.githubusercontent.com/Seeed-Studio/Seeed_Platform/master/Seeed_STM32F4_v1.1.0.tar.bz2",
+                "url": "https://raw.githubusercontent.com/Gimme-VARs/Seeeduino-Nano-Files/main/Seeed_STM32F4_v1.1.0.tar.bz2",
                 "archiveFileName": "Seeed_STM32F4_v1.1.0.tar.bz2",
                 "checksum": "SHA-256:f05d44450a2ed1fdf6a4eca1f1a917aac5dd967968bd521819eb259c412a6030",
                 "size": "210423",
@@ -304,7 +304,7 @@
                 "help": {
                     "online": "https://github.com/Seeed-Studio/stm32f4ArduinoCore"
                 },
-                "url": "https://raw.githubusercontent.com/Seeed-Studio/Seeed_Platform/master/Seeed_STM32F4_v1.1.1.tar.bz2",
+                "url": "https://raw.githubusercontent.com/Gimme-VARs/Seeeduino-Nano-Files/main/Seeed_STM32F4_v1.1.1.tar.bz2",
                 "archiveFileName": "Seeed_STM32F4_v1.1.1.tar.bz2",
                 "checksum": "SHA-256:5a0a407489ad19dac7bf90cc27a1c9fb891c052cecc9f98c351e20f424e2f005",
                 "size": "196166",
@@ -331,7 +331,7 @@
                 "help": {
                     "online": "https://github.com/Seeed-Studio/stm32f4ArduinoCore"
                 },
-                "url": "https://raw.githubusercontent.com/Seeed-Studio/Seeed_Platform/master/Seeed_STM32F4_v1.1.2.tar.bz2",
+                "url": "https://raw.githubusercontent.com/Gimme-VARs/Seeeduino-Nano-Files/main/Seeed_STM32F4_v1.1.2.tar.bz2",
                 "archiveFileName": "Seeed_STM32F4_v1.1.2.tar.bz2",
                 "checksum": "SHA-256:75833587fce4aa7fb33a746b5abb4df0f9d876a875f48568bfd1924b39db499a",
                 "size": "239790",
@@ -358,7 +358,7 @@
                 "help": {
                     "online": "https://github.com/Seeed-Studio/stm32f4ArduinoCore"
                 },
-                "url": "https://raw.githubusercontent.com/Seeed-Studio/Seeed_Platform/master/Seeed_STM32F4_v1.1.3.tar.bz2",
+                "url": "https://raw.githubusercontent.com/Gimme-VARs/Seeeduino-Nano-Files/main/Seeed_STM32F4_v1.1.3.tar.bz2",
                 "archiveFileName": "Seeed_STM32F4_v1.1.3.tar.bz2",
                 "checksum": "SHA-256:540fc02faf2fcc8608c5f45d99f04084ab71f44959bd63d75a81544bc66497db",
                 "size": "238419",
@@ -385,7 +385,7 @@
                 "help": {
                     "online": "https://github.com/Seeed-Studio/stm32f4ArduinoCore"
                 },
-                "url": "https://raw.githubusercontent.com/Seeed-Studio/Seeed_Platform/master/Seeed_STM32F4_v1.2.2.tar.bz2",
+                "url": "https://raw.githubusercontent.com/Gimme-VARs/Seeeduino-Nano-Files/main/Seeed_STM32F4_v1.2.2.tar.bz2",
                 "archiveFileName": "Seeed_STM32F4_v1.2.2.tar.bz2",
                 "checksum": "SHA-256:dc7b63282af9e73c42f84937983e3887c34cb0e8d47f234db025475478ea0591",
                 "size": "234456",
@@ -412,7 +412,7 @@
                 "help": {
                     "online": "https://github.com/Seeed-Studio/stm32f4ArduinoCore"
                 },
-                "url": "https://raw.githubusercontent.com/Seeed-Studio/Seeed_Platform/master/Seeed_STM32F4_v1.2.3.tar.bz2",
+                "url": "https://raw.githubusercontent.com/Gimme-VARs/Seeeduino-Nano-Files/main/Seeed_STM32F4_v1.2.3.tar.bz2",
                 "archiveFileName": "Seeed_STM32F4_v1.2.3.tar.bz2",
                 "checksum": "SHA-256:8bd96bf9ec6081cf19580bb04bb89422f58eb5dc2680ce6b0415065cbafc30f2",
                 "size": "695353",
@@ -439,7 +439,7 @@
                 "help": {
                     "online": "https://github.com/Seeed-Studio/stm32f4ArduinoCore"
                 },
-                "url": "https://raw.githubusercontent.com/Seeed-Studio/Seeed_Platform/master/Seeed_STM32F4_v1.2.4.tar.bz2",
+                "url": "https://raw.githubusercontent.com/Gimme-VARs/Seeeduino-Nano-Files/main/Seeed_STM32F4_v1.2.4.tar.bz2",
                 "archiveFileName": "Seeed_STM32F4_v1.2.4.tar.bz2",
                 "checksum": "SHA-256:cbee985d6d76f29b466d74b10f6a0195294eab95341eb597cfb3b84de3699533",
                 "size": "697230",
@@ -466,7 +466,7 @@
                 "help": {
                     "online": "https://github.com/Seeed-Studio/stm32f4ArduinoCore"
                 },
-                "url": "https://raw.githubusercontent.com/Seeed-Studio/Seeed_Platform/master/Seeed_STM32F4_v1.2.5.tar.bz2",
+                "url": "https://raw.githubusercontent.com/Gimme-VARs/Seeeduino-Nano-Files/main/Seeed_STM32F4_v1.2.5.tar.bz2",
                 "archiveFileName": "Seeed_STM32F4_v1.2.5.tar.bz2",
                 "checksum": "SHA-256:f1cbf3c7b46ba389d790805976ecd91df2aced39f45ff8c95d887c1869d71c26",
                 "size": "710662",
@@ -493,7 +493,7 @@
                 "help": {
                     "online": "http://wiki.seeedstudio.com/"
                 },
-                "url": "https://raw.githubusercontent.com/Seeed-Studio/Seeed_Platform/master/RePhone_core_2G_Atmel32u4_v1.0.0.tar.bz2",
+                "url": "https://raw.githubusercontent.com/Gimme-VARs/Seeeduino-Nano-Files/main/RePhone_core_2G_Atmel32u4_v1.0.0.tar.bz2",
                 "archiveFileName": "RePhone_core_2G_Atmel32u4_v1.0.0.tar.bz2",
                 "checksum": "SHA-256:022c8ebadee01d8f6db0acae4222547a002e3fbde6e19e6309bdf3f8ecafd3f9",
                 "size": "4809292",
@@ -517,7 +517,7 @@
                 "architecture": "RePhone_core_2G_AtmelSAMD21",
                 "version": "1.0.0",
                 "category": "Contributed",
-                "url": "https://raw.githubusercontent.com/Seeed-Studio/Seeed_Platform/master/RePhone_core_2G_AtmelSAMD21_v1.0.0.tar.bz2",
+                "url": "https://raw.githubusercontent.com/Gimme-VARs/Seeeduino-Nano-Files/main/RePhone_core_2G_AtmelSAMD21_v1.0.0.tar.bz2",
                 "archiveFileName": "RePhone_core_2G_AtmelSAMD21_v1.0.0.tar.bz2",
                 "checksum": "SHA-256:a37c3824447d7f07e50cb104cc7a51a5f6fb723719e15e609cec9ecfa92152e4",
                 "size": "1888166",
@@ -554,7 +554,7 @@
                 "help": {
                     "online": "http://www.seeedstudio.com/forum/viewforum.php?f=71"
                 },
-                "url": "https://raw.githubusercontent.com/Seeed-Studio/Seeed_Platform/master/RePhone_core_2G_MT2502_v1.0.0.tar.bz2",
+                "url": "https://raw.githubusercontent.com/Gimme-VARs/Seeeduino-Nano-Files/main/RePhone_core_2G_MT2502_v1.0.0.tar.bz2",
                 "archiveFileName": "RePhone_core_2G_MT2502_v1.0.0.tar.bz2",
                 "checksum": "SHA-256:2efd5b9abd4ed64abcfc696ce6fa40924298aa0209fa67b1bff68bb9dadf9ecc",
                 "size": "249744",
@@ -581,7 +581,7 @@
                 "help": {
                     "online": "http://www.seeedstudio.com/forum/viewforum.php?f=71"
                 },
-                "url": "https://raw.githubusercontent.com/Seeed-Studio/Seeed_Platform/master/RePhone_core_2G_MT2502_v1.0.1.tar.bz2",
+                "url": "https://raw.githubusercontent.com/Gimme-VARs/Seeeduino-Nano-Files/main/RePhone_core_2G_MT2502_v1.0.1.tar.bz2",
                 "archiveFileName": "RePhone_core_2G_MT2502_v1.0.1.tar.bz2",
                 "checksum": "SHA-256:d44482b81200fa974b0cefe30ea07399103b501dfe03be6956bc2b038c7e004b",
                 "size": "251239",
@@ -630,7 +630,7 @@
             {
                 "category": "Contributed",
                 "name": "Seeed ESP8266 Boards",
-                "url": "https://raw.githubusercontent.com/Seeed-Studio/Seeed_Platform/master/Seeed_esp8266_v2.4.2.tar.gz",
+                "url": "https://raw.githubusercontent.com/Gimme-VARs/Seeeduino-Nano-Files/main/Seeed_esp8266_v2.4.2.tar.gz",
                 "checksum": "SHA-256:d51ea007c6faa039c59de17c632e4ca2b123e8f5ce65b66a65e056868d4445a7",
                 "version": "2.4.2",
                 "architecture": "Seeed_esp8266",
@@ -1604,35 +1604,35 @@
                 "version": "1.0.0",
                 "systems": [{
                         "host": "i686-mingw32",
-                        "url": "https://raw.githubusercontent.com/Seeed-Studio/Seeed_Platform/master/stm32_dfu_upload_tool_v1.0.0.tar.bz2",
+                        "url": "https://raw.githubusercontent.com/Gimme-VARs/Seeeduino-Nano-Files/main/stm32_dfu_upload_tool_v1.0.0.tar.bz2",
                         "archiveFileName": "stm32_dfu_upload_tool_v1.0.0.tar.bz2",
                         "checksum": "SHA-256:7c02b3d32919cb49a5cca68ae945166c112beb944c978cc2a8d89f753fa80062",
                         "size": "370492"
                     },
                     {
                         "host": "arm-linux-gnueabihf",
-                        "url": "https://raw.githubusercontent.com/Seeed-Studio/Seeed_Platform/master/stm32_dfu_upload_tool_arm.tar.bz2",
+                        "url": "https://raw.githubusercontent.com/Gimme-VARs/Seeeduino-Nano-Files/main/stm32_dfu_upload_tool_arm.tar.bz2",
                         "archiveFileName": "stm32_dfu_upload_tool_arm.tar.bz2",
                         "checksum": "SHA-256:90762998220078436fcc4c6a6d09e1a4b70f38d95b56bc14f6a7f7cbf5b5cdfc",
                         "size": "195210"
                     },
                     {
                         "host": "x86_64-apple-darwin",
-                        "url": "https://raw.githubusercontent.com/Seeed-Studio/Seeed_Platform/master/stm32_dfu_upload_tool_v1.0.0.tar.bz2",
+                        "url": "https://raw.githubusercontent.com/Gimme-VARs/Seeeduino-Nano-Files/main/stm32_dfu_upload_tool_v1.0.0.tar.bz2",
                         "archiveFileName": "stm32_dfu_upload_tool_v1.0.0.tar.bz2",
                         "checksum": "SHA-256:7c02b3d32919cb49a5cca68ae945166c112beb944c978cc2a8d89f753fa80062",
                         "size": "370492"
                     },
                     {
                         "host": "x86_64-pc-linux-gnu",
-                        "url": "https://raw.githubusercontent.com/Seeed-Studio/Seeed_Platform/master/stm32_dfu_upload_tool_v1.0.0.tar.bz2",
+                        "url": "https://raw.githubusercontent.com/Gimme-VARs/Seeeduino-Nano-Files/main/stm32_dfu_upload_tool_v1.0.0.tar.bz2",
                         "archiveFileName": "stm32_dfu_upload_tool_v1.0.0.tar.bz2",
                         "checksum": "SHA-256:7c02b3d32919cb49a5cca68ae945166c112beb944c978cc2a8d89f753fa80062",
                         "size": "370492"
                     },
                     {
                         "host": "i686-pc-linux-gnu",
-                        "url": "https://raw.githubusercontent.com/Seeed-Studio/Seeed_Platform/master/stm32_dfu_upload_tool_v1.0.0.tar.bz2",
+                        "url": "https://raw.githubusercontent.com/Gimme-VARs/Seeeduino-Nano-Files/main/stm32_dfu_upload_tool_v1.0.0.tar.bz2",
                         "archiveFileName": "stm32_dfu_upload_tool_v1.0.0.tar.bz2",
                         "checksum": "SHA-256:7c02b3d32919cb49a5cca68ae945166c112beb944c978cc2a8d89f753fa80062",
                         "size": "370492"
