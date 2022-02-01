@@ -1,4 +1,7 @@
-[![](http://statics3.seeedstudio.com/assets/img/wiki/wiki_banner_20161013.jpg)](http://www.seeedstudio.com)
+
+To add to preferences in arduino IDE, add the following URL:
+https://raw.githubusercontent.com/Gimme-VARs/Seeeduino-Nano-Files/main/package_seeeduino_boards_index.json
+
 
 Seeed had designed so many boards that work with Arduino IDE, include,
 
